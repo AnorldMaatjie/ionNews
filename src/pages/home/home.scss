@@ -1,0 +1,29 @@
+page-home {
+
+    .main{ background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)), url('../../assets/imgs/v.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    p{
+        text-align: center;
+        margin-top: 99px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+    }
+
+    #button{
+        // margin-: 50px;
+        margin-top: 310px;
+        color: white;
+        background-color: rgba(34, 21, 8, 0.986);
+        // border-color: rgba(0, 0, 0, 0);
+       border: 2px solid rgba(255, 255, 255, 0.582);
+        }
+
+    #header{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+}
